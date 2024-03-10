@@ -12,14 +12,16 @@
 
 
 
-
+<p>
  <h3 style="text-align: center; border: none;">
     Alumno Marcelo Yuba
 </h3>
-
+</p>
+<p>
  <h2 align='center'>
  <b>Siniestros viales en la ciudad de Buenos Aires</b>
 </h2>
+</p>
 <p align='center'>
 <img src ="scr\Logotipo_de_la_Ciudad_de_Buenos_Aires.svg (1).png" height=100>
 <p>
@@ -35,7 +37,7 @@ El Gobierno de la Ciudad Buenos Aires, genero una base de datos con las estadist
 <h3 style="text-align: left; border: none;">Se toma el archivo provisto, que se encuentra en formato Exel, pasamos a leerlo y hacer las transformaciones pertinentes como se ve en el archivo <a href="https://github.com/marceloyuba/PI_DA/blob/main/analisis/ETL.ipynb">ETL</a> que se encuentra en la carpeta <a href="https://github.com/marceloyuba/PI_DA/tree/main/analisis">analisis</a>
 <br>
 </h3>
-
+</p>
 <p>
 <h3 style="text-align: left; border: none;">Conjuntamente al <a href="https://github.com/marceloyuba/PI_DA/blob/main/analisis/ETL.ipynb">ETL</a>, en Power Bi, se generaron transformaciones adicionales, debido a ser mas simple de implementar, como por ejemplo la normalizacion de los nombres de las calles y avenidas que originalmente se mostraban asi
 <br>
