@@ -50,7 +50,7 @@ El Gobierno de la Ciudad Buenos Aires, genero una base de datos con las estadist
 </p>
 
 <p align='center'>
-<img src ="scr\calles2.jpg" style="width: 40%;">
+<img src ="scr\calles2.jpg">
 </p>
 
 <p>
@@ -69,7 +69,7 @@ El Gobierno de la Ciudad Buenos Aires, genero una base de datos con las estadist
 </p>
 
 <p align='center'>
-<img src ="scr\comunas.jpg" style="width: 40%;">
+<img src ="scr\comunas.jpg">
 </p>
 
 <p>
@@ -78,7 +78,7 @@ El Gobierno de la Ciudad Buenos Aires, genero una base de datos con las estadist
 </p>
 
 <p align='center'>
-<img src ="scr\conexion.jpg" style="width: 40%;">
+<img src ="scr\conexion.jpg">
 </p>
 
 <p>
@@ -91,13 +91,13 @@ El Gobierno de la Ciudad Buenos Aires, genero una base de datos con las estadist
 <br>
 </p>
 <p align='center'>
-<img src ="scr\tablaHechosOriginal.jpg" style="width: 60%;">
+<img src ="scr\tablaHechosOriginal.jpg">
 </p>
 <p>
 <h3 style="text-align: left; border: none;">Luego de un proceso de ETL en Power BI, terminamos dejando la tabla de esta manera</h3>
 <br>
 </p>
 <p align='center'>
-<img src ="scr\tablaHechosNew.jpg" style="width: 60%;">
+<img src ="scr\tablaHechosNew.jpg">
 </p>
 <p>
