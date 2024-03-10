@@ -22,6 +22,7 @@
  <b>Siniestros viales en la ciudad de Buenos Aires</b>
 </h2>
 </p>
+<br>
 <p align='center'>
 <img src ="scr\Logotipo_de_la_Ciudad_de_Buenos_Aires.svg (1).png" height=100>
 <p>
