@@ -6,14 +6,14 @@
 
 
 <p align='center'>
-<h2 style="text-align: center; border: none;">
+<h2 align='center'>
  Proyecto integrador de Data Analist
 </h2>
-
+</p>
 
 
 <p>
- <h3 style="text-align: center; border: none;">
+ <h3 align='center'>
     Alumno Marcelo Yuba
 </h3>
 </p>
