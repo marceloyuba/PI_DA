@@ -1,5 +1,3 @@
-
-
 <p align='center'>
 <img src ="scr\HenryLogo.jpg">
 <p>
@@ -28,10 +26,14 @@
 <p>
  <p style="text-align: left; border: none;">
 <h3>
-El Gobierno de la Ciudad Buenos Aires, genero una base de datos con las estadisticas de homicidios viales, mostrando Hechos y Victimas, nuestro trabajo es analizar estos datasets, hacer un ETL y un analisis EDA, para poder ver los datos de manera mas analitica, lo vamos a realizar en los <b>4 pasos más importantes del desarrollo<b>
+El Gobierno de la Ciudad Buenos Aires, designo al Observatorio de Movilidad y Seguridad Vial (OMSV), a quien nosotros representamos, a generar una base de datos con las estadisticas de homicidios viales, mostrando Hechos y Victimas, nuestro trabajo es analizar estos datasets, hacer un ETL y un EDA, para poder ver los datos de manera mas analitica.
 </h3>
+<h1></h1>
 </p>
-<h1>ETL</h1>
+<p align='center'>
+<img src ="scr\barraETL.jpg">
+<p>
+<br>
 <p align='center'>
 <img src ="scr\archivos.jpg">
 <p>
@@ -103,4 +105,25 @@ El Gobierno de la Ciudad Buenos Aires, genero una base de datos con las estadist
 <p align='center'>
 <img src ="scr\tablaHechosNew.jpg">
 </p>
+
 <p>
+<h3 style="text-align: left; border: none;">Tenemos la tabla de Victimas original</h3>
+<br>
+</p>
+<p align='center'>
+<img src ="scr\tablaVictimasOriginal.jpg">
+</p>
+<p>
+<h3 style="text-align: left; border: none;">Luego de un proceso de ETL en Power BI, terminamos dejando la tabla de esta manera</h3>
+<br>
+</p>
+<p align='center'>
+<img src ="scr\tablaVictimasNew.jpg">
+</p>
+<p>
+<p>
+<h2 style="text-align: left; border: none;">Con esto pasamos a analizar en Power BI y hacer los graficos e interacciones para presentar el proyecto</h2>
+<br>
+</p>
+
+<h1>EDA</h1>
