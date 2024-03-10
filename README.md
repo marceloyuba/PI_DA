@@ -28,6 +28,11 @@
 <h3>
 El Gobierno de la Ciudad Buenos Aires, designo al Observatorio de Movilidad y Seguridad Vial (OMSV), a quien nosotros representamos, a generar una base de datos con las estadisticas de homicidios viales, mostrando Hechos y Victimas, nuestro trabajo es analizar estos datasets, hacer un ETL y un EDA, para poder ver los datos de manera mas analitica.
 </h3>
+
+<p align='center'>
+<img src ="scr\camino.jpg">
+<p>
+
 <h1></h1>
 </p>
 <p align='center'>
