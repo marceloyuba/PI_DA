@@ -41,7 +41,7 @@ El Gobierno de la Ciudad Buenos Aires, genero una base de datos con las estadist
 <br>
 </h3>
 <p align='center'>
-<img src ="scr\calles1.jpg" style="width: 30%;">
+<img src ="scr\calles1.jpg">
 </p>
 
 <p>
