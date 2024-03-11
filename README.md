@@ -27,7 +27,7 @@
 <h3>Secciones de este documento</h3>
 <h3><a href="#intro">Introduccion</a></h3>
 [Ir a la ETL](#ETL)<br>
-### [EDA](#EDA)
+[EDA](#EDA)
 <h3><a href="#Hipotesis">Hipotesis</a></h3>
 <h3><a href="#Conclusiones">Conclusiones</a></h3>
 <h1></h1>
