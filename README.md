@@ -26,8 +26,8 @@
 <h1>Glosario del README</h1>
 <h3>Secciones de este documento</h3>
 <h3><a href="#intro">Introduccion</a></h3>
-<h3><a href="#ETL">ETL</a></h3>
-<h3><a href="#EDA">EDA</a></h3>
+[Ir a la ETL](#ETL)<br>
+### [EDA](#EDA)
 <h3><a href="#Hipotesis">Hipotesis</a></h3>
 <h3><a href="#Conclusiones">Conclusiones</a></h3>
 <h1></h1>
@@ -49,7 +49,7 @@ El Observatorio de Movilidad y Seguridad Vial (OMSV), centro de estudios que se 
 <p>
 <br>
 
-<p align='center' id="ETL">
+<p align='center' {#ETL}>
 <img src ="scr\barraETL.jpg">
 <p>
 <br>
