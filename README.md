@@ -23,11 +23,22 @@
 </p>
 <br>
 
+<h1>Glosario del README</h1>
+<h3>Secciones de este documento</h3>
+<h3><a href="#intro">Introduccion</a></h3>
+<h3><a href="#ETL">ETL</a></h3>
+<h3><a href="#EDA">EDA</a></h3>
+<h3><a href="#Hipotesis">Hipotesis</a></h3>
+<h3><a href="#Conclusiones">Conclusiones</a></h3>
+<h1></h1>
+</p>
+<br>
+
 <p align='center'>
 <img src ="scr\Logotipo_de_la_Ciudad_de_Buenos_Aires.svg (1).png" height=100>
 <p>
  <p style="text-align: left; border: none;">
- <h1>Rol a desarrollar</h1>
+ <h1 id="intro">Rol a desarrollar</h1>
 <h3>
 El Observatorio de Movilidad y Seguridad Vial (OMSV), centro de estudios que se encuentra bajo la órbita de la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires, nos solicita la elaboración de un proyecto de anális de datos, con el fin de generar información que le permita a las autoridades locales tomar medidas para disminuir la cantidad de víctimas fatales de los siniestros viales. Para ello, nos disponibilizan un dataset sobre homicidios en siniestros viales acaecidos en la Ciudad de Buenos Aires durante el periodo 2016-2021. Este dataset se encuentra en formato xlsx y contiene :<b> hechos y víctimas </b>. Asimismo, observarán que incluye otras dos hojas adicionales de diccionarios de datos, que les podrá servir de guía para un mayor entendimiento de la data compartida.
 </h3>
@@ -37,12 +48,8 @@ El Observatorio de Movilidad y Seguridad Vial (OMSV), centro de estudios que se 
 <img src ="scr\camino.jpg">
 <p>
 <br>
-<h1></h1>
-</p>
-<br>
 
-
-<p align='center'>
+<p align='center' id="ETL">
 <img src ="scr\barraETL.jpg">
 <p>
 <br>
@@ -149,7 +156,7 @@ El Observatorio de Movilidad y Seguridad Vial (OMSV), centro de estudios que se 
 </p>
 <br>
 
-<p align='center'>
+<p align='center' id="EDA">
 <img src ="scr\barraEDA.jpg">
 <p>
 <br>
@@ -187,4 +194,5 @@ El Observatorio de Movilidad y Seguridad Vial (OMSV), centro de estudios que se 
 
 
 
-<h1>Conclusiones</h1>
+<h1 id="Hipotesis">Hipotesis</h1>
+
