@@ -24,15 +24,12 @@
 <br>
 
 <h1>Glosario del README</h1>
-<h3>Secciones de este documento</h3>
-<h3><a href="#intro">Introduccion</a></h3>
-[Ir a la ETL](#ETL)<br>
-[EDA](#EDA)
-<h3><a href="#Hipotesis">Hipotesis</a></h3>
-<h3><a href="#Conclusiones">Conclusiones</a></h3>
-<h1></h1>
-</p>
-<br>
+
+* Indice
+    * Introduccion
+    * ETL
+    * EDA
+    * Hipotesis y  Conclusiones
 
 <p align='center'>
 <img src ="scr\Logotipo_de_la_Ciudad_de_Buenos_Aires.svg (1).png" height=100>
@@ -47,6 +44,17 @@ El Observatorio de Movilidad y Seguridad Vial (OMSV), centro de estudios que se 
 <p align='center'>
 <img src ="scr\camino.jpg">
 <p>
+<br>
+
+ <h1>Tecnologias</h1>
+
+* Las tecnologias usadas en este proyecto son:
+  * Pandas
+  * Numpy
+  * Matplotlib
+  * Seaborn
+  * Power BI
+<h3></h3>
 <br>
 
 <p align='center' {#ETL}>
@@ -190,9 +198,31 @@ El Observatorio de Movilidad y Seguridad Vial (OMSV), centro de estudios que se 
 <p>
 <br>
 
-<h3>En este podemos ver como la mayor cantidad de victimas son las motos, a continuacion veremos las conclusiones que sacamos del EDA</h3>
+<h3>En este podemos ver como la mayor cantidad de victimas son las motos, a continuacion veremos las hipotesis y conclusiones que sacamos del EDA y Power BI</h3>
 
+<h1>Hipotesis y Conclusiones</h1>
 
+<h3>Habiendo realizado el EDA, nos permite anticipar los resultados para un posterior analisis en Power BI, de esta manera llegamos a las siguientes hipotesis y posteriores concluciones</h3>
 
-<h1 id="Hipotesis">Hipotesis</h1>
+<h2>Utimo tremestre 2021</h2>
 
+<h3>1. Analizar con un KPI, si los accidentes viales bajaron un 10% respecto al ultimo semestre de 2021, en caso de ser negativo, plantear soluciones para reducir los siniestros</h3>
+
+<p align='center'>
+<img src ="scr\analisis\KPI10.jpg">
+<p>
+<br>
+<h3>Como se ve en el KPI, no logreamos alcanzar la reduccion que planteamos, debido que fue 2021 donde recien se volvia a activar de a poco la actividad comercial y de libre circulacion luego de la cuerentena por el COVID 19, la tasa de accidentes es mucha, de todas formas, hay que hacer una capcitacion vial a los conductores, sobre todo de motos, que siempre registran la mayor cantidad de siniestros, la mayoria son repartidores de aplicaciones como Pedidos Ya y otra parte hace cadeteria, ya sea de oficina como Mercado Libre, la que desde 2020 crecio exponencialmente gracias a la cuarentena. Por ultimo reforzar los controles de inspectores de transito para que se vea el estado en que manejan(con o sin casco, alcoholizados, vehiculo en condiciones) </h3>
+
+<h3>2. Son los Adultos Mayores, propensos a accidentes viales y en que cirscunstancia suceden estos siniestros, tomamos la edad jubilatoria que en caso de las mujeres es 60 años y hombres 65 años, nuestra medida seran los 60 años. </h3>
+
+<p align='center'>
+<img src ="scr\analisis\EtarioUltimo.jpg">
+<p>
+<br>
+
+<h3>3. En contraste con la anterior, son los jovenes propensos a accidentes viales y en que cirscuntancia suceden, tomaremos la mayoria de edad que es 18 años hasta los 25 años, sabiendo que los planes de medicina toman estas edades como juventud </h3>
+
+<h3>4. Cual es la Comuna con mayor cantidad de accidentes y tratar de analizar el porque de este fenomeno</h3>
+
+<h3>5. Cual es el mayor causante de siniestros  y en que comuna son la mayor cantidad y quienes son los mas siniestrados y donde</h3>
