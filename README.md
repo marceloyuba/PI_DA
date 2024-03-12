@@ -5,7 +5,7 @@
 
 <p align='center'>
 <h2 align='center'>
- Proyecto integrador de Data Analist
+ Proyecto integrador de Data Analyst
 </h2>
 </p>
 
@@ -71,7 +71,7 @@ El Observatorio de Movilidad y Seguridad Vial (OMSV), centro de estudios que se 
 <img src ="scr\etl.jpg">
 
 <p>
-<h3 style="text-align: left; border: none;">Se toma el archivo provisto, que se encuentra en formato Exel, pasamos a leerlo y hacer las transformaciones pertinentes como se ve en el archivo <a href="https://github.com/marceloyuba/PI_DA/blob/main/analisis/ETL.ipynb">ETL</a> que se encuentra en la carpeta <a href="https://github.com/marceloyuba/PI_DA/tree/main/analisis">analisis</a>
+<h3 style="text-align: left; border: none;">Se toma el archivo provisto, que se encuentra en formato Excel, pasamos a leerlo y hacer las transformaciones pertinentes como se ve en el archivo <a href="https://github.com/marceloyuba/PI_DA/blob/main/analisis/ETL.ipynb">ETL</a> que se encuentra en la carpeta <a href="https://github.com/marceloyuba/PI_DA/tree/main/analisis">analisis</a>
 <br>
 </h3>
 </p>
@@ -213,7 +213,7 @@ El Observatorio de Movilidad y Seguridad Vial (OMSV), centro de estudios que se 
 
 <h3>Habiendo realizado el EDA, nos permite anticipar los resultados para un posterior analisis en Power BI, de esta manera llegamos a las siguientes hipotesis y posteriores concluciones</h3>
 
-<h2>Utimo tremestre 2021</h2>
+<h2>Ultimo tremestre 2021</h2>
 
 <h3>1. Analizar con un KPI, si los accidentes viales bajaron un 10% respecto al ultimo semestre de 2021, en caso de ser negativo, plantear soluciones para reducir los siniestros</h3>
 <br>
@@ -223,7 +223,7 @@ El Observatorio de Movilidad y Seguridad Vial (OMSV), centro de estudios que se 
 <p>
 
 <br>
-<h3>Como se ve en el KPI, no logreamos alcanzar la reduccion que planteamos, debido que fue 2021 donde recien se volvia a activar de a poco la actividad comercial y de libre circulacion luego de la cuerentena por el COVID 19, la tasa de accidentes es mucha, de todas formas, hay que hacer una capcitacion vial a los conductores, sobre todo de motos, que siempre registran la mayor cantidad de siniestros, la mayoria son repartidores de aplicaciones como Pedidos Ya y otra parte hace cadeteria, ya sea de oficina como Mercado Libre, la que desde 2020 crecio exponencialmente gracias a la cuarentena. Por ultimo reforzar los controles de inspectores de transito para que se vea el estado en que manejan(con o sin casco, alcoholizados, vehiculo en condiciones) </h3>
+<h3>Como se ve en el KPI, no logramos alcanzar la reduccion que planteamos, debido que fue 2021 donde recien se volvia a activar de a poco la actividad comercial y de libre circulacion luego de la cuerentena por el COVID 19, la tasa de accidentes es mucha, de todas formas, hay que hacer una capacitacion vial a los conductores, sobre todo de motos, que siempre registran la mayor cantidad de siniestros, la mayoria son repartidores de aplicaciones como Pedidos Ya y otra parte hace cadeteria, ya sea de oficina como Mercado Libre, la que desde 2020 crecio exponencialmente gracias a la cuarentena. Por ultimo reforzar los controles de inspectores de transito para que se vea el estado en que manejan(con o sin casco, alcoholizados, vehiculo en condiciones) </h3>
 <br>
 
 <h3>2. Son los Adultos Mayores, propensos a accidentes viales y en que cirscunstancia suceden estos siniestros, tomamos la edad jubilatoria que en caso de las mujeres es 60 años y hombres 65 años, nuestra medida seran los 60 años. </h3>
@@ -244,7 +244,7 @@ El Observatorio de Movilidad y Seguridad Vial (OMSV), centro de estudios que se 
 <p>
 <br>
 
-<h3>En este caso como el anterior, vemos que la mayor incidencia es en conductores de moto, esto debido en su mayoria a jovenes que buscan una forma de hacer dinero sin experiencia laboral y la mayoria tiene como un medio economico de transporte, una moto.
+<h3>En este caso como el anterior, vemos que la mayor incidencia es en conductores de moto, esto debido en su mayoria a jovenes que buscan una forma de hacer dinero sin experiencia laboral y la mayoria la tiene como un medio economico de transporte, o, de bajo costo para poder empezar trabajando para aplicaciones de comida o mensajeria.
 <br>
 Se podrian brindar cursos de manejo responsable en moto, ya que a la fecha, no existen
 </h3>
@@ -252,4 +252,47 @@ Se podrian brindar cursos de manejo responsable en moto, ya que a la fecha, no e
 
 <h3>4. Cual es la Comuna con mayor cantidad de accidentes y tratar de analizar el porque de este fenomeno</h3>
 
+<br>
+<p align='center'>
+<img src ="scr\analisis\comuna.jpg">
+<p>
+<br>
+
+<h3>Como podemos ver, la Comuna 1, en este caso como en muchos otros, es la comuna con mas siniestros, esto debido a que parte de la ciudad ocupa, Como se puede observar la mayoria de los siniestros son peatones, bicicletas y motos. La gran cantidad de trafico automotor genera estos accidentes. </h3>
+
+<br>
+<p align='center'>
+<img src ="scr\analisis\mapaComuna.jpg">
+<p>
+<br>
+
+<h3>Basicamente ocupa la parte centrica de la ciudad, avenidas como, Corrientes, 9 de julio( comprende las calles laterales que se llaman Cerrito/Lima y Carlos Pellegrini/ Bernardo de Irigoyen, Avenida Corrientes hace el cambio de nombre ), Avenida de Mayo, Belgrano, Cordoba y Santa Fe, las cuales son muy concurridas por sus oficinas y locales, hacen de esta un caos de trafico mas aun en las horas pico y de corrida bancaria y de mercado.
+<br>
+Una solucion probada para este problema es la obligacion de circular por menos partes, reducir los espacios de estacionamiento y el ancho de las calles, aunque sin una medida que obligue la menor circulacion de vehiculos, generan mas embotellamientos.
+<br>
+Implementar la limitacion de circulacion por letra de patente, cobrar un cargo de congestion (como se hace en Londres), valores altos de peaje en horas pico a vehiculos con menos de dos ocupantes para el ingreso a un perimetro especifico, reduciria sustancialmente el trafico en la Comuna 1, haciendo un perimetro entre, Av. Pueyrredon, Av. San Juan, Av. Libertador y Av. Alicia Morau de Justo (Puerto Madero).
+</h3>
+
+<br>
+<p align='center'>
+<img src ="scr\analisis\mapaBloque.jpg">
+<p>
+<br>
+
 <h3>5. Cual es el mayor causante de siniestros  y en que comuna son la mayor cantidad y quienes son los mas siniestrados y donde</h3>
+
+<br>
+<p align='center'>
+<img src ="scr\analisis\5utlimoTrimestre.jpg">
+<p>
+<br>
+
+<h3>Tomando en cuenta el analisis previo en el EDA.</h3>
+
+<br>
+<p align='center'>
+<img src ="scr\analisis\acusados.jpg">
+<p>
+<br>
+
+<h3>Se hizo un analisis al respecto en Power BI buscando al Auto como el mayor causante de accidentes, y en el analisis por ultimo semestre concuerda con lo visto. Las medidas mencionadas en el punto anterior, aplican de igual manera para esta conclusion </h3>
