@@ -206,7 +206,7 @@ El Observatorio de Movilidad y Seguridad Vial (OMSV), centro de estudios que se 
 
 <br>
 <p align='center' {#ETL}>
-<img src ="scr\barraHipo.jpg">
+<img src ="scr\barraHIpo.jpg">
 <p>
 <h1></h1>
 
