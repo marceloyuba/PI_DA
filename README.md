@@ -46,7 +46,7 @@ El Observatorio de Movilidad y Seguridad Vial (OMSV), centro de estudios que se 
 <br>
 
 <p align='center'>
-<img src ="scr\camino.jpg">
+<img src ="scr\caminos.jpg">
 <p>
 <br>
 
