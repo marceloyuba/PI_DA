@@ -306,7 +306,7 @@ Implementar la limitación de circulación por letra de patente, cobrar un cargo
 
 <br>
 <p align='center'>
-<img src ="scr\analisis\pico.jpg">
+<img src ="scr\analisis\Pico.jpg">
 <p>
 
 
