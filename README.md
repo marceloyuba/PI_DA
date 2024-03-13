@@ -213,17 +213,16 @@ El Observatorio de Movilidad y Seguridad Vial (OMSV), centro de estudios que se 
 
 <h3>Habiendo realizado el EDA, nos permite anticipar los resultados para un posterior análisis en Power BI, de esta manera llegamos a las siguientes hipótesis y posteriores conclusiones</h3>
 
-<h2>Ultimo tremestre 2021</h2>
-
-<h3>1. Analizar con un KPI, si los accidentes viales bajaron un 10% respecto al último semestre de 2021, en caso de ser negativo, plantear soluciones para reducir los siniestros</h3>
+<h3>1. Analizar con un KPI, si los accidentes viales bajaron un 10% respecto al último semestre de 2021 y un 7% en el ultimo año en las motos, debido a la gran incidencia de victimas que tiene, en caso de ser negativo, plantear soluciones para reducir los siniestros</h3>
 <br>
 
 <p align='center'>
-<img src ="scr\analisis\KPI10.jpg">
+<img src ="scr\analisis\KPI.png">
+
 <p>
 
 <br>
-<h3>Como se ve en el KPI, no logramos alcanzar la reducción que planteamos, debido que fue 2021 donde recien se volvia a activar de a poco la actividad comercial y de libre circulación luego de la cuarentena por el COVID 19, la tasa de accidentes es mucha, de todas formas, hay que hacer una capacitación vial a los conductores, sobre todo de motos, que siempre registran la mayor cantidad de siniestros, la mayoría son repartidores de aplicaciones como Pedidos Ya y otra parte hace cadeteria, ya sea de oficina como Mercado Libre, la que desde 2020 creció exponencialmente gracias a la cuarentena. Por último reforzar los controles de inspectores de tránsito para que se vea el estado en que manejan(con o sin casco, alcoholizados, vehículo en condiciones) </h3>
+<h3>Como se ve en elos KPI, no logramos alcanzar la reducción que planteamos, debido que fue 2021 donde recien se volvia a activar de a poco la actividad comercial y de libre circulación luego de la cuarentena por el COVID 19, la tasa de accidentes es mucha, de todas formas, hay que hacer una capacitación vial a los conductores, sobre todo de motos, que siempre registran la mayor cantidad de siniestros, la mayoría son repartidores de aplicaciones como Pedidos Ya y otra parte hace cadeteria, ya sea de oficina como Mercado Libre, la que desde 2020 creció exponencialmente gracias a la cuarentena. Por último reforzar los controles de inspectores de tránsito para que se vea el estado en que manejan(con o sin casco, alcoholizados, vehículo en condiciones) </h3>
 <br>
 
 <h3>2. Son los Adultos Mayores, propensos a accidentes viales y en qué circunstancias suceden estos siniestros, tomamos la edad jubilatoria que en caso de las mujeres es 60 años y hombres 65 años, nuestra medida serán los 60 años. </h3>
@@ -250,7 +249,7 @@ Se podrian brindar cursos de manejo responsable en moto, ya que a la fecha, no e
 </h3>
 <br>
 
-<h3>4. Cual es la Comuna con mayor cantidad de accidentes y tratar de analizar el porque de este fenomeno.</h3>
+<h3>4. Cual es la Comuna con mayor cantidad de accidentes y tratar de analizar el porque de este fenomeno.<br> Cual es el mayor causante de siniestros  y en qué comuna son la mayor cantidad y quienes son los más siniestrados y donde.</h3>
 
 <br>
 <p align='center'>
@@ -279,8 +278,6 @@ Implementar la limitación de circulación por letra de patente, cobrar un cargo
 <p>
 <br>
 
-<h3>5. Cual es el mayor causante de siniestros  y en qué comuna son la mayor cantidad y quienes son los más siniestrados y donde</h3>
-
 <br>
 <p align='center'>
 <img src ="scr\analisis\5utlimoTrimestre.jpg">
@@ -296,3 +293,23 @@ Implementar la limitación de circulación por letra de patente, cobrar un cargo
 <br>
 
 <h3>Se hizo un análisis al respecto en Power BI buscando al Auto como el mayor causante de accidentes y en el análisis por último semestre concuerda con lo visto en el EDA. Las medidas a tomar mencionadas en el punto anterior ( reestructuración de las calles y perímetro), aplican de igual manera para esta conclusión </h3>
+<br><br>
+
+<h1>Analisis de accidente de moto</h1>
+
+<h3>5. La hora influye en los siniestros?, Es la hora bancaria la que mas registros tiene?.</h3>
+
+<br>
+<p align='center'>
+<img src ="scr\analisis\banco.jpg">
+<p>
+
+<br>
+<p align='center'>
+<img src ="scr\analisis\pico.jpg">
+<p>
+
+
+<br>
+<h3>La respuesta es que el horario influye, pero sin lugar a dudas, la hora pico de la mañana es la que mas siniestros tiene, pero, la hora bancaria tambien es alta, esto de explica con mas detalle en el <a href="https://github.com/marceloyuba/PI_DA/blob/main/analisis/EDA.ipynb">EDA</a>.<br>Una solucion posible seria restringir la circulacion en horas pico  </h3>
+<br>
