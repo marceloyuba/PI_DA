@@ -1,20 +1,6 @@
 <p align='center'>
-<img src ="scr\HenryLogo.jpg">
+<img src ="scr\SDTLogoC.png">
 <p>
-
-
-<p align='center'>
-<h2 align='center'>
- Proyecto integrador de Data Analyst
-</h2>
-</p>
-
-
-<p>
- <h3 align='center'>
-    Alumno Marcelo Yuba
-</h3>
-</p>
 
 <p>
  <h2 align='center'>
